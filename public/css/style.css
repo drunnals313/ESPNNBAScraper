@@ -1,0 +1,16 @@
+#basketballPic {
+    background: url(../imgs/cover.jpg) no-repeat center center;
+    background-size: cover;
+    height: 212px;
+    color: #fff;
+}
+
+/* #imageSize {
+    height: 250px;
+    width: auto;
+} */
+
+.body {
+    background: url(../imgs/teams.jpg);
+    background-size: cover;
+}
